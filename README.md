@@ -20,7 +20,7 @@ OpenCode 的 Android 客户端，连接 OpenCode Server 进行 AI 编程对话�
 <p align="center">
   <img src="screenshots/add-server.jpg" width="24%" />
   <img src="screenshots/servers-list.jpg" width="24%" />
-  <img src="screenshots/setting.jpg" width="24%" />
+  <img src="screenshots/settings.jpg" width="24%" />
   <img src="screenshots/stats.jpg" width="24%" />
   <img src="screenshots/talking-ui.jpg" width="24%" />
 </p>
